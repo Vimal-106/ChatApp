@@ -17,7 +17,7 @@ Show some ❤️ and 🌟 the repo to support the project
 4. [References](#references-💻)
 
 
-## Features Of AmigoChat 🚀
+## Features Of AmigoChat App 🚀
 
 - SignUp
 - SignIn
